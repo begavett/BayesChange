@@ -1,0 +1,12 @@
+name: BayesChange
+title: BayesChange
+username:
+account: neuropsych
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 231449
+bundleId: 1056633
+url: https://neuropsych.shinyapps.io/BayesChange/
+when: 1509647660.22649
+asMultiple: FALSE
+asStatic: FALSE
